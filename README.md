@@ -1,1 +1,0 @@
-# versioned_file_indexer
